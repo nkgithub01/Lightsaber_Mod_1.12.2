@@ -1,4 +1,4 @@
-This is the Lightsaber Mod, v1.0
+This is the Lightsaber Mod, v1.0, developed in 2021
 Mod code is contained in LightsabersMod/src/main/java/com/finn_505/lightsabermod
 Link to download playable mod:
 https://www.curseforge.com/minecraft/mc-mods/the-lightsaber-mod
